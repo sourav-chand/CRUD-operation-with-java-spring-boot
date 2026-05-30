@@ -1,0 +1,41 @@
+# Maven
+target/
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE - Eclipse
+.settings/
+.classpath
+.project
+*.class
+
+# IDE - VS Code
+.vscode/
+
+# IDE - NetBeans
+nb-configuration.xml
+nbactions.xml
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Spring Boot
+application-local.properties
+application-dev.properties
+application-secret.properties
+*.pid
